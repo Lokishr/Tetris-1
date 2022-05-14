@@ -1,3 +1,5 @@
+print("hello")
+
 import pygame
 import random
 s_width = 800
